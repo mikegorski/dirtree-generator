@@ -1,0 +1,6 @@
+HELP_APP = "A simple directory tree generator."
+HELP_ROOT = "The root of the directory tree."
+HELP_GEN = "Type of directory tree generator to use."
+HELP_STYLE = "Style of directory tree to be generated. Has effect only with Rich tree generator."
+HELP_VERBOSE = "To increase verbosity of presented information."
+HELP_HIDDEN = "To show hidden files in the tree."
